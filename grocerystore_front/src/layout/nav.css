@@ -1,0 +1,13 @@
+.flex-container
+{
+    display: flex;
+    background-color: black;
+    flex-direction: row;
+}
+.flex-container>div
+{
+    text-align: justify;
+    color: antiquewhite;
+    margin: 10px;
+    padding: 20px;
+}
